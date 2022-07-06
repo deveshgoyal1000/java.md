@@ -1,8 +1,7 @@
 # java
 
 
-Q/Program-1
-Create a program to convert temperature in celsius to fahrenheit.
+Q.1 Create a program to convert temperature in celsius to fahrenheit.
 
 The formula to convert Celsius to Fahrenheit is
 
