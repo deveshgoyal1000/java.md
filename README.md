@@ -3,19 +3,17 @@
 
 Q.1 Create a program to convert temperature in celsius to fahrenheit.
 
-The formula to convert Celsius to Fahrenheit is
-
-fahrenheit = (celsius * 1.8) + 32
-Get temperature in Celsius input from the user and store it in the celsius variable.
-Convert the temperature to Fahrenheit using the above formula and store it in the fahrenheit variable.
-Print the temperature in fahrenheit.
-Example
-Test Input
-
-35.5
-Expected Output
-
-95.9
+**Hints** 
+##### The formula to convert Celsius to Fahrenheit is
+ **fahrenheit = (celsius * 1.8) + 32**
+##### Get temperature in Celsius input from the user and store it in the celsius variable.
+##### Convert the temperature to Fahrenheit using the above formula and store it in the fahrenheit variable.
+##### Print the temperature in fahrenheit.
+##### Example
+##### Test Input
+##### 35.5
+##### Expected Output
+##### 95.9
 
 
 
