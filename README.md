@@ -17,7 +17,7 @@ Test Input
 Expected Output
 
 95.9
-
+// program starting
 import java.util.Scanner;
 
 class Main {
