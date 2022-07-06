@@ -17,11 +17,17 @@ Test Input
 Expected Output
 
 95.9
-// program starting
-import java.util.Scanner;
 
-class Main {
-    public static void main(String[] args) {
+
+
+
+
+
+      // program starts from here
+       import java.util.Scanner;
+
+         class Main {
+           public static void main(String[] args) {
 
         // create object class of Scanner class 
         Scanner input = new Scanner(System.in);
